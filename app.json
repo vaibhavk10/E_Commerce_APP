@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-expo-project",
-    "slug": "my-expo-project",
+    "name": "a0-project",
+    "slug": "snack-52f98c22-bd91-4f0e-866b-a7e83cb8768c",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Quickly generate React Native components with AI"
   }
 }
