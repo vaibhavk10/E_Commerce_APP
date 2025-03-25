@@ -13,7 +13,7 @@ A React Native e-commerce app that displays products from FakeStore API, featuri
 - 💫 Smooth navigation between screens
 
 <h2>📸 Screenshots</h2>
-<p>Here are a few glimpses of the EatSphere App in action:</p>
+<p>Here are a few glimpses of the E Commerce App in action:</p>
 
 <table>
   <tr>
