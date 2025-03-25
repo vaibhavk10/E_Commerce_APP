@@ -14,7 +14,32 @@ A React Native e-commerce app that displays products from FakeStore API, featuri
 
 ## Screenshots
 
-[Add your app screenshots here]
+<p align="center">
+  <img src="./assets/icon.png" width="200" alt="App Icon"/>
+  <img src="./assets/splash-icon.png" width="200" alt="Splash Screen"/>
+  <img src="./assets/adaptive-icon.png" width="200" alt="Adaptive Icon"/>
+  <img src="./assets/favicon.png" width="200" alt="Favicon"/>
+</p>
+
+<details>
+<summary>📱 More App Screenshots</summary>
+
+### Home Screen
+<img src="./assets/Home_screen.jpg" width="300" alt="Home Screen"/>
+
+### Product Details
+<img src="./assets/product-details.jpg" width="300" alt="Product Details"/>
+
+### Cart
+<img src="./assets/cart.jpg" width="300" alt="Shopping Cart"/>
+
+### Wishlist
+<img src="./assets/wishlist.jpg" width="300" alt="Wishlist"/>
+
+### Search & Filter
+<img src="./assets/searchbar.jpg" width="300" alt="Search and Filter"/>
+
+</details>
 
 ## Tech Stack
 
