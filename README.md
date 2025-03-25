@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/vaibhavk10/E_Commerce_APP.git
 cd my-expo-project
 ```
 
@@ -56,5 +56,3 @@ npx expo start
 - Press `a` for Android
 - Press `i` for iOS
 - Scan QR code with Expo Go app on your mobile device
-
-## Project Structure 
