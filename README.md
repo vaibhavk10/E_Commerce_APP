@@ -18,9 +18,7 @@ A React Native e-commerce app that displays products from FakeStore API, featuri
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://github.com/vaibhavk10/E_Commerce_APP/assets/readme/tech-stack.png" alt="Tech Stack" />
-</div>
+
 
 <!-- Or use this cool banner style -->
 <div align="center">
