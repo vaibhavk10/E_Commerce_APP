@@ -32,7 +32,7 @@ A React Native e-commerce app that displays products from FakeStore API, featuri
   </tr>
   <tr>
     <td><img src="./assets/Wish1.jpg" alt="Wishlist" width="200"></td>
-    <td><img src="./assets/searchbar.jpg" alt="Search Bar" width="200"></td>
+    <td><img src="./assets/search1.jpg" alt="Search Bar" width="200"></td>
   </tr>
 </table>
 
