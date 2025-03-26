@@ -22,18 +22,17 @@ A React Native e-commerce app that displays products from FakeStore API, featuri
     <th>Cart</th>
   </tr>
   <tr>
-    <td><img src="./assets/Home_screen.jpg" alt="Home Screen" width="200"></td>
-    <td><img src="./assets/product_detail.jpg" alt="Product details" width="200"></td>
-    <td><img src="./assets/cart.jpg" alt="Cart" width="200"></td>
+    <td><img src="./assets/Home1.jpg" alt="Home Screen" width="200"></td>
+    <td><img src="./assets/Product_details.jpg" alt="Product details" width="200"></td>
+    <td><img src="./assets/Cart1.jpg" alt="Cart" width="200"></td>
   </tr>
   <tr>
     <th>Wishlist</th>
     <th>Searchbar</th>
   </tr>
   <tr>
-    <td><img src="./assets/Wishlist.jpg" alt="Wishlist" width="200"></td>
+    <td><img src="./assets/Wish1.jpg" alt="Wishlist" width="200"></td>
     <td><img src="./assets/searchbar.jpg" alt="Search Bar" width="200"></td>
-   
   </tr>
 </table>
 
@@ -114,6 +113,4 @@ npx expo start
 ```
 
 4. Run on your preferred platform:
-- Press `a` for Android
-- Press `i` for iOS
-- Scan QR code with Expo Go app on your mobile device
+- Press `a`
